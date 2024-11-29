@@ -359,7 +359,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .single-progress-txt h3 {
     width: 10%;
-    color: #a606c3;
+    color: #060cc3;
     position: relative;
     top: 6px;
     left: 20px;
@@ -716,8 +716,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .single-contact-btn:hover{
-    background: #9f00ff;
-    border: 1px solid #9f00ff;
+    background: #00aeff;
+    border: 1px solid #00aeff;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
 }
 
@@ -804,8 +804,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 #scroll-Top  .return-to-top:hover {
     background:#fff;
-    color: #b636ff;
-	border:1px solid #b636ff;
+    color: #00aeff;
+	border:1px solid #00aeff;
 }
 
 #scroll-Top  .return-to-top i{
